@@ -2,4 +2,4 @@ from app import greet
 
 
 def test_greet():
-    assert greet("kevin") == "Hello, kevin!"
+    assert greet("kevin") == "Goodbye, kevin!"
